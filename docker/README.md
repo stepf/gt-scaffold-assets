@@ -4,5 +4,5 @@ Docker virtualization of a full SGA pipeline – using a modified .dot-verbose v
 
 #### USAGE
 1. [Install](https://docs.docker.com/installation/) Docker
-2. Pull [automated build](https://docs.docker.com/docker-hub/builds/) of this image: `docker pull stepf/sga`
+2. Pull [automated build](https://docs.docker.com/docker-hub/builds/) of this image: `docker pull stpf/sga`
 3. Navigate to files and run pipeline `docker run -v $(pwd):/input READ_1.fq READ_2.fq` (replace filenames accordingly).
