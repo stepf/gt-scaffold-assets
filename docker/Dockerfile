@@ -21,9 +21,13 @@ RUN sudo apt-get update &&\
       libncurses5-dev \
       libncursesw5-dev \
       libtool \
+      python-dev \
+      python-pip \
       sparsehash \
       wget \
       zlib1g-dev
+# install sga-astat.py dependecy
+RUN pip install pysam
 
 # Build bamtools
 RUN git clone -b $bamtools_version https://github.com/pezmaster31/bamtools.git bamtools

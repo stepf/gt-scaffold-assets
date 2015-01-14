@@ -2,7 +2,7 @@
 
 # EXAMPLE: Obtain sequence data and generate reads
 # wget ftp://igenome:G3nom3s4u@ussd-ftp.illumina.com/Enterobacteriophage_lambda/NCBI/1993-04-28/Enterobacteriophage_lambda_NCBI_1993-04-28.tar.gz
-# art_illumina -sam -i Enterobacteriophage_lambda.fa -l 150 -f 20 -m 400 -s 10 -rs 123 -o lambda
+# art_illumina -sam -i INPUT.fa -p -l 150 -f 20 -m 400 -s 10 -rs 123 -o PREFIX
 
 #
 # Parameters
