@@ -1,0 +1,836 @@
+contig-468 contig-117+,-98,13,2.8 ; contig-437+,-99,15,2.6
+contig-469 contig-615+,-99,19,2.3 ; contig-318-,-86,17,2.4
+contig-361 contig-803+,-84,15,2.6 ; contig-161+,-99,13,2.8
+contig-360 ;
+contig-219 contig-777-,-99,22,2.1 ; contig-526-,-99,22,2.1
+contig-84 contig-625+,-99,16,2.5 ; contig-140+,-99,15,2.6
+contig-363 ;
+contig-218 ; contig-798+,-99,11,3.0
+contig-85 contig-123-,-99,10,3.2 ; contig-258+,-99,10,3.2
+contig-168 contig-712+,-99,21,2.2 ; contig-528-,-99,11,3.0
+contig-362 contig-47-,-92,19,2.3 ; contig-436-,-99,14,2.7
+contig-86 contig-378-,-99,14,2.7 ; contig-638-,-90,13,2.8
+contig-365 contig-819-,-81,20,2.2 ; contig-648-,-99,17,2.4
+contig-87 contig-725+,-99,10,3.2 ; contig-561-,-99,13,2.8
+contig-364 contig-203+,-99,21,2.2 ;
+contig-80 ;
+contig-81 ; contig-538+,-99,20,2.2
+contig-53 ; contig-541-,-99,18,2.4
+contig-366 contig-370+,-99,14,2.7 ; contig-783-,-99,13,2.8
+contig-82 contig-460-,-97,11,3.0 ;
+contig-52 contig-695-,-99,14,2.7 ; contig-163-,-99,16,2.5
+contig-163 ; contig-52-,-99,16,2.5
+contig-51 contig-650+,-99,19,2.3 ; contig-745-,-99,24,2.0
+contig-211 ; contig-193+,-97,10,3.2
+contig-50 contig-371-,-99,21,2.2 ; contig-247-,-99,13,2.8
+contig-161 contig-361+,-99,13,2.8 ;
+contig-210 contig-449+,-99,31,1.8 ; contig-344-,-36,11,3.0
+contig-57 contig-778-,-99,13,2.8 ; contig-552+,-14,12,2.9
+contig-160 contig-26-,-99,20,2.2 ; contig-817-,-99,20,2.2
+contig-213 ;
+contig-56 ; contig-99+,-99,12,2.9
+contig-167 contig-787+,-99,23,2.1 ; contig-613-,-95,18,2.4
+contig-212 contig-442-,-99,13,2.8 ;
+contig-55 contig-164-,-99,13,2.8 ; contig-446+,-99,19,2.3
+contig-166 contig-158-,-99,11,3.0 ;
+contig-215 contig-608-,-99,16,2.5 ;
+contig-88 contig-0-,-99,15,2.6 ;
+contig-54 contig-262-,-99,22,2.1 ;
+contig-165 contig-866+,-99,17,2.4 ;
+contig-89 contig-684+,-99,17,2.4 ;
+contig-164 contig-55-,-99,13,2.8 ;
+contig-217 contig-548+,-99,15,2.6 ; contig-93-,-5,11,3.0
+contig-216 ; contig-819-,-99,12,2.9
+contig-59 ; contig-718-,-99,15,2.6
+contig-58 ;
+contig-778 contig-57-,-99,13,2.8 ;
+contig-819 contig-365-,-81,20,2.2 ; contig-216-,-99,12,2.9
+contig-779 contig-180+,-99,20,2.2 ; contig-808-,-99,17,2.4
+contig-818 ;
+contig-817 contig-313-,-99,18,2.4 ; contig-160-,-99,20,2.2
+contig-816 contig-549+,-99,18,2.4 ; contig-788-,-99,11,3.0
+contig-815 ; contig-842+,-97,14,2.7
+contig-814 ;
+contig-772 contig-708-,-99,14,2.7 ; contig-407+,-99,13,2.8
+contig-813 contig-27-,-99,12,2.9 ; contig-675+,-99,20,2.2
+contig-812 contig-502-,-99,11,3.0 ;
+contig-770 contig-526-,-99,15,2.6 ; contig-92+,-99,14,2.7
+contig-811 contig-239+,-99,22,2.1 ; contig-42+,-99,12,2.9
+contig-771 ; contig-614-,-99,14,2.7
+contig-688 contig-551+,-99,11,3.0 ; contig-37+,-99,14,2.7
+contig-810 contig-421-,-99,15,2.6 ; contig-642-,-94,15,2.6
+contig-776 contig-567-,-99,12,2.9 ; contig-485-,-99,15,2.6
+contig-689 contig-525+,-99,14,2.7 ; contig-383+,-99,18,2.4
+contig-777 contig-219-,-99,22,2.1 ; contig-326+,-86,13,2.8
+contig-332 contig-40-,-99,16,2.5 ; contig-885+,-99,14,2.7
+contig-774 contig-175+,-99,23,2.1 ;
+contig-333 contig-736-,-53,12,2.9 contig-663-,33,15,2.6 ; contig-449+,-99,38,1.6
+contig-775 contig-559+,-99,18,2.4 ; contig-281+,-99,14,2.7
+contig-331 contig-729+,-99,17,2.4 ;
+contig-578 contig-902+,-99,16,2.5 ; contig-209+,-99,16,2.5
+contig-682 ; contig-787+,-99,19,2.3
+contig-336 ; contig-372-,-99,14,2.7
+contig-579 contig-573+,-99,17,2.4 ; contig-294+,-99,12,2.9
+contig-683 contig-645+,-99,15,2.6 ; contig-109-,-99,11,3.0
+contig-680 contig-712-,-99,15,2.6 ; contig-47-,-99,14,2.7
+contig-334 ;
+contig-681 contig-398-,-99,15,2.6 ; contig-349+,-99,11,3.0
+contig-335 contig-678-,-99,16,2.5 ; contig-605+,-99,24,2.0
+contig-574 ; contig-625+,-86,14,2.7
+contig-686 contig-298-,-52,15,2.6 ; contig-533-,-99,17,2.4
+contig-134 contig-93-,-99,13,2.8 ; contig-439-,-99,17,2.4
+contig-575 contig-403-,-99,16,2.5 ; contig-104+,-99,17,2.4
+contig-687 contig-692-,-92,14,2.7 ;
+contig-135 contig-70+,-95,11,3.0 ; contig-912-,-86,15,2.6
+contig-576 ; contig-132+,-99,17,2.4
+contig-684 ; contig-89+,-99,17,2.4
+contig-136 ; contig-662+,-99,20,2.2
+contig-243 ; contig-890+,-99,16,2.5
+contig-577 contig-650-,-99,18,2.4 ; contig-915-,-99,15,2.6
+contig-685 contig-287+,-99,14,2.7 ;
+contig-137 contig-801+,-88,20,2.2 ; contig-412+,-99,15,2.6
+contig-339 contig-186+,-99,16,2.5 ;
+contig-570 ;
+contig-130 ; contig-690+,-94,18,2.4
+contig-241 contig-66+,-99,15,2.6 ;
+contig-571 contig-720-,-99,21,2.2 ; contig-871+,-99,14,2.7
+contig-131 ; contig-5+,-58,12,2.9
+contig-246 contig-528-,-90,18,2.4 ; contig-573+,-99,16,2.5
+contig-572 contig-320+,-99,18,2.4 ;
+contig-499 contig-194+,-99,21,2.2 ; contig-700-,-99,30,1.8
+contig-132 contig-576+,-99,17,2.4 ;
+contig-247 contig-909+,-99,11,3.0 ; contig-50-,-99,13,2.8
+contig-573 contig-246+,-99,16,2.5 ; contig-579+,-99,17,2.4
+contig-498 contig-4+,-99,19,2.3 ; contig-527-,-99,16,2.5
+contig-133 contig-95-,-99,15,2.6 ;
+contig-244 ; contig-412-,-99,16,2.5
+contig-245 contig-626-,-99,15,2.6 ;
+contig-248 ;
+contig-493 contig-183-,-99,19,2.3 ; contig-561+,-99,15,2.6
+contig-138 contig-859-,-99,21,2.2 ; contig-347-,-92,11,3.0
+contig-249 ; contig-915+,-99,14,2.7
+contig-492 contig-64-,-99,16,2.5 ;
+contig-139 ;
+contig-491 contig-204+,-96,14,2.7 ; contig-864-,-89,20,2.2
+contig-490 ; contig-418-,-99,15,2.6
+contig-497 contig-3+,-99,16,2.5 ; contig-630-,-99,11,3.0
+contig-495 contig-270-,-99,17,2.4 ; contig-417+,-99,24,2.0
+contig-494 ; contig-484+,-99,15,2.6
+contig-615 contig-694+,-99,16,2.5 ; contig-469+,-99,19,2.3
+contig-614 contig-769-,-99,14,2.7 ; contig-771-,-99,14,2.7
+contig-617 ; contig-202-,-99,15,2.6
+contig-616 contig-189+,-99,13,2.8 ; contig-452+,-91,14,2.7
+contig-611 contig-119-,-99,12,2.9 ; contig-312+,-99,13,2.8
+contig-610 ; contig-706-,-94,15,2.6
+contig-613 ; contig-167-,-95,18,2.4
+contig-612 ; contig-482+,-99,19,2.3
+contig-545 contig-325+,-99,16,2.5 ;
+contig-544 contig-727-,-99,13,2.8 ; contig-803+,-99,19,2.3
+contig-547 ;
+contig-619 contig-800-,-19,10,3.2 ; contig-453-,-99,32,1.8
+contig-546 contig-380-,-99,15,2.6 ;
+contig-618 contig-585-,-99,12,2.9 ;
+contig-541 contig-735-,-99,20,2.2 ; contig-53-,-99,18,2.4
+contig-540 contig-824-,-99,22,2.1 ; contig-16+,-99,16,2.5
+contig-543 contig-823+,-99,18,2.4 ; contig-892-,-93,14,2.7
+contig-542 ; contig-581-,-99,11,3.0
+contig-549 ; contig-816+,-99,18,2.4
+contig-548 contig-479+,-95,10,3.2 ; contig-217+,-99,15,2.6
+contig-885 contig-332+,-99,14,2.7 ;
+contig-886 contig-483-,-99,17,2.4 ;
+contig-880 ; contig-557-,-99,13,2.8
+contig-881 contig-196-,-99,36,1.7 contig-12+,-99,28,1.9 ; contig-344+,32,10,3.2 contig-716+,-99,12,2.9 contig-670-,-99,14,2.7 contig-288+,-99,17,2.4
+contig-882 contig-240+,-26,11,3.0 ; contig-453+,-99,18,2.4
+contig-852 contig-402+,-99,15,2.6 ; contig-375-,-99,21,2.2
+contig-883 contig-768-,-99,21,2.2 ; contig-251-,-99,16,2.5
+contig-851 contig-793-,-99,13,2.8 ;
+contig-850 contig-515-,-99,11,3.0 ; contig-443-,-92,17,2.4
+contig-856 contig-267-,-99,14,2.7 ; contig-125+,-99,17,2.4
+contig-888 ; contig-120+,-99,19,2.3
+contig-854 contig-373+,-99,14,2.7 ; contig-149+,-99,19,2.3
+contig-109 ; contig-683-,-99,11,3.0
+contig-889 contig-288+,-44,12,2.9 ; contig-449-,-99,18,2.4
+contig-108 contig-906-,-99,19,2.3 ; contig-751-,-87,18,2.4
+contig-859 contig-138-,-99,21,2.2 ; contig-263+,-99,21,2.2
+contig-858 contig-667+,-99,12,2.9 ; contig-127+,-91,16,2.5
+contig-105 contig-29+,-92,13,2.8 ; contig-383-,-99,11,3.0
+contig-104 contig-575+,-99,17,2.4 ; contig-79+,-99,19,2.3
+contig-107 contig-68+,-99,16,2.5 ; contig-781+,-97,16,2.5
+contig-106 contig-489+,-62,12,2.9 ;
+contig-101 ; contig-768-,-99,18,2.4
+contig-100 contig-633+,-99,11,3.0 ; contig-604-,-99,13,2.8
+contig-531 contig-869+,-99,15,2.6 ;
+contig-103 ; contig-264-,-99,12,2.9
+contig-532 contig-877+,-99,19,2.3 ;
+contig-102 contig-550-,-99,21,2.2 ; contig-791-,-99,16,2.5
+contig-533 contig-385-,-99,12,2.9 ; contig-686-,-99,17,2.4
+contig-535 ;
+contig-536 contig-396+,-92,18,2.4 ;
+contig-537 contig-416-,-99,16,2.5 ; contig-733-,-99,14,2.7
+contig-538 contig-81+,-99,20,2.2 ;
+contig-539 contig-804-,-99,16,2.5 ;
+contig-738 contig-482+,-52,11,3.0 ; contig-668-,-99,23,2.1
+contig-739 contig-865+,-99,11,3.0 ; contig-764-,-92,21,2.2
+contig-736 contig-333-,-53,12,2.9 contig-449-,62,14,2.7 ; contig-700+,-69,16,2.5
+contig-737 ;
+contig-386 ; contig-302-,-99,18,2.4
+contig-385 contig-533-,-99,12,2.9 ; contig-2+,-99,10,3.2
+contig-735 contig-541-,-99,20,2.2 ; contig-380-,-92,15,2.6
+contig-384 contig-714-,-99,16,2.5 ;
+contig-383 contig-689+,-99,18,2.4 ; contig-105-,-99,11,3.0
+contig-733 ; contig-537-,-99,14,2.7
+contig-382 contig-191-,-99,16,2.5 ; contig-392-,-42,12,2.9
+contig-376 ; contig-876-,-99,14,2.7
+contig-730 ; contig-15-,-99,15,2.6
+contig-381 contig-517-,-81,12,2.9 ; contig-895-,-99,10,3.2
+contig-377 ; contig-179-,-99,11,3.0
+contig-731 contig-481+,-99,18,2.4 ; contig-479+,-82,15,2.6
+contig-380 contig-546-,-99,15,2.6 ; contig-735-,-92,15,2.6
+contig-374 contig-596-,-99,18,2.4 ; contig-710+,-27,10,3.2
+contig-375 contig-122-,-99,12,2.9 ; contig-852-,-99,21,2.2
+contig-372 contig-295-,-99,17,2.4 ; contig-336-,-99,14,2.7
+contig-373 ; contig-854+,-99,14,2.7
+contig-370 ; contig-366+,-99,14,2.7
+contig-371 contig-50-,-99,21,2.2 ; contig-455+,-99,18,2.4
+contig-178 contig-696+,-99,10,3.2 ; contig-424+,-99,17,2.4
+contig-179 contig-129-,-99,20,2.2 ; contig-377-,-99,11,3.0
+contig-389 ; contig-448+,-99,12,2.9
+contig-206 contig-340-,-99,14,2.7 ; contig-646+,-99,17,2.4
+contig-388 contig-343+,-99,17,2.4 ; contig-562-,-99,15,2.6
+contig-598 contig-141+,-99,10,3.2 ; contig-174-,-99,18,2.4
+contig-204 ; contig-491+,-96,14,2.7
+contig-599 ; contig-505+,-92,13,2.8
+contig-205 ; contig-113+,-99,18,2.4
+contig-596 contig-374-,-99,18,2.4 ; contig-414-,-97,12,2.9
+contig-202 ; contig-617-,-99,15,2.6
+contig-597 contig-910+,-99,11,3.0 ; contig-470-,-99,15,2.6
+contig-378 contig-86-,-99,14,2.7 ;
+contig-203 contig-73-,-99,18,2.4 ; contig-364+,-99,21,2.2
+contig-379 contig-790-,-99,19,2.3 ;
+contig-200 contig-743-,-75,10,3.2 contig-391-,25,17,2.4 ;
+contig-595 contig-30-,-99,17,2.4 ; contig-69+,-98,11,3.0
+contig-170 contig-675+,-99,24,2.0 ; contig-406-,-99,10,3.2
+contig-201 contig-507+,-99,11,3.0 ;
+contig-592 contig-700-,3,24,2.0 ; contig-449+,4,15,2.6
+contig-171 contig-748-,-99,15,2.6 ;
+contig-459 ; contig-837+,-91,14,2.7
+contig-593 contig-652+,-99,12,2.9 ; contig-604+,-98,13,2.8
+contig-458 ; contig-408+,-99,12,2.9
+contig-590 contig-827+,-99,13,2.8 ; contig-782-,-99,24,2.0
+contig-173 contig-155+,-99,10,3.2 ;
+contig-457 ; contig-518-,-48,11,3.0
+contig-591 ;
+contig-174 ; contig-598-,-99,18,2.4
+contig-456 ;
+contig-175 ; contig-774+,-99,23,2.1
+contig-455 contig-371+,-99,18,2.4 ; contig-821-,-99,17,2.4
+contig-176 ; contig-848-,-99,13,2.8
+contig-454 contig-667-,-99,14,2.7 ;
+contig-177 contig-441+,-99,22,2.1 ; contig-8+,-99,17,2.4
+contig-208 ;
+contig-453 contig-882+,-99,18,2.4 contig-197+,-3,18,2.4 contig-463-,66,12,2.9 ; contig-619-,-99,32,1.8 contig-194+,-99,17,2.4
+contig-209 contig-578+,-99,16,2.5 ;
+contig-452 contig-616+,-91,14,2.7 ;
+contig-451 ; contig-417-,-99,20,2.2
+contig-450 ; contig-390-,-99,21,2.2
+contig-747 ; contig-906-,-99,17,2.4
+contig-808 contig-126-,-95,18,2.4 ; contig-779-,-99,17,2.4
+contig-746 contig-395-,-99,13,2.8 ; contig-465-,-99,17,2.4
+contig-809 contig-422-,-99,14,2.7 ;
+contig-745 ; contig-51-,-99,24,2.0
+contig-744 contig-527-,-99,20,2.2 ; contig-664-,-99,22,2.1
+contig-659 contig-474-,-99,19,2.3 ; contig-279-,-91,16,2.5
+contig-743 contig-200-,-75,10,3.2 ; contig-700-,-99,19,2.3
+contig-804 contig-539-,-99,16,2.5 ;
+contig-742 contig-224+,-99,19,2.3 ; contig-620+,-99,11,3.0
+contig-805 ; contig-418+,8,10,3.2
+contig-806 contig-912-,-99,11,3.0 ; contig-842-,-99,15,2.6
+contig-740 contig-326+,-80,14,2.7 ; contig-340-,-99,22,2.1
+contig-807 ;
+contig-800 contig-619-,-19,10,3.2 ;
+contig-801 contig-758+,-99,15,2.6 ; contig-137+,-88,20,2.2
+contig-802 contig-905-,-99,17,2.4 ; contig-522+,-89,11,3.0
+contig-803 contig-544+,-99,19,2.3 ; contig-361+,-84,15,2.6
+contig-651 contig-900-,-99,11,3.0 ; contig-834-,-99,20,2.2
+contig-650 contig-577-,-99,18,2.4 ; contig-51+,-99,19,2.3
+contig-509 contig-641-,-99,18,2.4 ; contig-146-,-99,12,2.9
+contig-653 ;
+contig-508 ;
+contig-652 contig-256-,-99,16,2.5 ; contig-593+,-99,12,2.9
+contig-748 contig-171-,-99,15,2.6 ;
+contig-655 contig-460+,-99,13,2.8 ; contig-327+,-99,13,2.8
+contig-654 contig-754+,-99,16,2.5 ; contig-258-,-99,19,2.3
+contig-657 contig-318-,-99,10,3.2 ; contig-302+,-84,13,2.8
+contig-656 contig-914+,-99,18,2.4 ; contig-760+,-99,18,2.4
+contig-501 contig-227+,-99,13,2.8 ; contig-19-,-99,19,2.3
+contig-141 contig-329+,-99,18,2.4 ; contig-598+,-99,10,3.2
+contig-500 ; contig-847+,-99,19,2.3
+contig-140 contig-84+,-99,15,2.6 ;
+contig-503 contig-96+,-99,20,2.2 ; contig-27-,-99,11,3.0
+contig-143 contig-820-,-99,19,2.3 ; contig-723-,-99,14,2.7
+contig-502 contig-812-,-99,11,3.0 ;
+contig-142 contig-406-,-99,16,2.5 ; contig-760-,-99,14,2.7
+contig-505 contig-599+,-92,13,2.8 ; contig-295-,-99,16,2.5
+contig-145 ; contig-553-,-99,20,2.2
+contig-504 contig-352+,-99,20,2.2 ; contig-236+,-99,18,2.4
+contig-489 ; contig-106+,-62,12,2.9
+contig-144 contig-410-,-99,17,2.4 ;
+contig-507 contig-605+,-99,17,2.4 ; contig-201+,-99,11,3.0
+contig-147 contig-1+,-99,17,2.4 ; contig-28-,-99,21,2.2
+contig-506 ;
+contig-146 ; contig-509-,-99,12,2.9
+contig-149 contig-854+,-99,19,2.3 ; contig-622+,8,12,2.9
+contig-148 ;
+contig-480 contig-16+,-97,18,2.4 ;
+contig-481 contig-8+,-86,11,3.0 ; contig-731+,-99,18,2.4
+contig-482 contig-612+,-99,19,2.3 ; contig-738+,-52,11,3.0
+contig-309 contig-896-,-99,14,2.7 ;
+contig-483 contig-886-,-99,17,2.4 ; contig-422-,-35,11,3.0
+contig-308 contig-640-,-90,12,2.9 ;
+contig-484 contig-494+,-99,15,2.6 ; contig-705+,-99,16,2.5
+contig-307 contig-564+,-91,17,2.4 ; contig-693-,-96,13,2.8
+contig-485 contig-414-,-99,10,3.2 ; contig-776-,-99,15,2.6
+contig-306 contig-274-,-99,14,2.7 ; contig-324-,-96,11,3.0
+contig-486 contig-90-,-97,20,2.2 ; contig-78-,-99,15,2.6
+contig-487 contig-608+,-99,11,3.0 ; contig-275+,-99,14,2.7
+contig-304 contig-796+,-26,11,3.0 ; contig-423-,-99,18,2.4
+contig-303 contig-780+,-99,21,2.2 ; contig-698-,-99,11,3.0
+contig-302 contig-657+,-84,13,2.8 ; contig-386-,-99,18,2.4
+contig-301 contig-914-,-96,19,2.3 ;
+contig-300 ;
+contig-279 contig-24+,-42,14,2.7 ; contig-659-,-91,16,2.5
+contig-603 contig-692+,-99,13,2.8 ;
+contig-276 contig-415-,-99,17,2.4 contig-820+,-99,16,2.5 ; contig-185-,-99,15,2.6 contig-755+,-99,12,2.9
+contig-600 contig-512+,-99,19,2.3 ;
+contig-275 contig-487+,-99,14,2.7 ;
+contig-274 contig-306-,-99,14,2.7 ; contig-253+,-99,15,2.6
+contig-606 ; contig-9-,-83,10,3.2
+contig-273 ;
+contig-607 ;
+contig-272 contig-841+,-99,16,2.5 ; contig-449+,-26,10,3.2
+contig-604 contig-593+,-98,13,2.8 ; contig-100-,-99,13,2.8
+contig-271 contig-159-,-99,15,2.6 ; contig-840-,-99,19,2.3
+contig-605 contig-335+,-99,24,2.0 ; contig-507+,-99,17,2.4
+contig-270 contig-495-,-99,17,2.4 ; contig-843-,-99,12,2.9
+contig-552 contig-57+,-14,12,2.9 ;
+contig-608 contig-215-,-99,16,2.5 ; contig-487+,-99,11,3.0
+contig-553 contig-762+,-99,12,2.9 ; contig-145-,-99,20,2.2
+contig-550 contig-102-,-99,21,2.2 ;
+contig-551 contig-110-,-99,18,2.4 ; contig-688+,-99,11,3.0
+contig-556 ; contig-477-,-99,21,2.2
+contig-557 contig-226-,-97,15,2.6 ; contig-880-,-99,13,2.8
+contig-554 contig-192-,-99,12,2.9 ; contig-119-,-99,14,2.7
+contig-413 ; contig-702+,-99,14,2.7
+contig-412 contig-137+,-99,15,2.6 ; contig-244-,-99,16,2.5
+contig-410 contig-144-,-99,17,2.4 ; contig-476+,-98,11,3.0
+contig-558 contig-195-,-99,18,2.4 ; contig-711+,-87,15,2.6
+contig-417 contig-495+,-99,24,2.0 ; contig-451-,-99,20,2.2
+contig-559 contig-725-,-96,13,2.8 ; contig-775+,-99,18,2.4
+contig-416 contig-537-,-99,16,2.5 ; contig-94+,-99,21,2.2
+contig-415 contig-276-,-99,17,2.4 ; contig-875+,-89,19,2.3
+contig-414 contig-485-,-99,10,3.2 ; contig-596-,-97,12,2.9
+contig-419 contig-679-,-99,19,2.3 ; contig-231+,-99,11,3.0
+contig-418 contig-805+,8,10,3.2 ; contig-490-,-99,15,2.6
+contig-35 ;
+contig-840 contig-724-,-99,10,3.2 ; contig-271-,-99,19,2.3
+contig-34 ; contig-29+,-99,15,2.6
+contig-841 contig-631+,-99,10,3.2 ; contig-272+,-99,16,2.5
+contig-37 contig-688+,-99,14,2.7 ; contig-699+,-99,16,2.5
+contig-842 contig-815+,-97,14,2.7 ; contig-806-,-99,15,2.6
+contig-36 contig-703+,-99,16,2.5 ; contig-826-,-99,16,2.5
+contig-843 contig-875+,-99,14,2.7 ; contig-270-,-99,12,2.9
+contig-31 ;
+contig-844 ;
+contig-30 contig-595-,-99,17,2.4 ;
+contig-845 ; contig-671-,-99,13,2.8
+contig-846 ;
+contig-32 contig-324-,-86,11,3.0 ; contig-230+,-99,15,2.6
+contig-847 contig-500+,-99,19,2.3 ;
+contig-848 contig-643-,-99,14,2.7 ; contig-176-,-99,13,2.8
+contig-39 contig-26+,-99,19,2.3 ; contig-6+,-99,17,2.4
+contig-38 contig-693-,-99,19,2.3 ;
+contig-709 contig-98+,-76,16,2.5 ;
+contig-708 contig-772-,-99,14,2.7 ; contig-328-,-99,12,2.9
+contig-703 ; contig-36+,-99,16,2.5
+contig-394 contig-831-,-99,15,2.6 ; contig-73-,-98,19,2.3
+contig-702 contig-413+,-99,14,2.7 ; contig-758+,-98,12,2.9
+contig-395 contig-746-,-99,13,2.8 ; contig-445-,-99,17,2.4
+contig-701 contig-280-,-99,16,2.5 ; contig-891+,-99,13,2.8
+contig-396 ; contig-536+,-92,18,2.4
+contig-700 contig-367+,66,11,3.0 contig-736+,-69,16,2.5 contig-592-,3,24,2.0 contig-663+,-99,15,2.6 ; contig-499-,-99,30,1.8 contig-743-,-99,19,2.3
+contig-397 ;
+contig-390 contig-647+,-99,10,3.2 ; contig-450-,-99,21,2.2
+contig-706 ; contig-610-,-94,15,2.6
+contig-391 contig-200-,25,17,2.4 contig-409+,-99,18,2.4 ;
+contig-343 contig-630-,-99,12,2.9 ; contig-388+,-99,17,2.4
+contig-705 contig-484+,-99,16,2.5 ; contig-766-,-89,13,2.8
+contig-392 contig-431+,-99,19,2.3 ; contig-382-,-42,12,2.9
+contig-342 ; contig-624-,-99,13,2.8
+contig-341 ;
+contig-340 contig-206-,-99,14,2.7 ; contig-740-,-99,22,2.1
+contig-40 contig-332-,-99,16,2.5 ; contig-220-,-99,17,2.4
+contig-347 contig-226+,-99,10,3.2 ; contig-138-,-92,11,3.0
+contig-41 ;
+contig-346 contig-426+,-99,13,2.8 ; contig-401-,-93,14,2.7
+contig-42 contig-811+,-99,12,2.9 ;
+contig-43 contig-290-,-99,15,2.6 ; contig-529+,-99,16,2.5
+contig-398 contig-681-,-99,15,2.6 ;
+contig-344 contig-881+,32,10,3.2 ; contig-210-,-36,11,3.0
+contig-44 contig-198-,-99,17,2.4 ; contig-710-,-99,14,2.7
+contig-185 contig-400-,-99,18,2.4 ; contig-276-,-99,15,2.6
+contig-45 contig-719-,-99,15,2.6 ; contig-863-,-98,23,2.1
+contig-184 contig-560+,-99,20,2.2 ;
+contig-233 ;
+contig-46 contig-781+,-99,19,2.3 ; contig-763+,-99,15,2.6
+contig-187 contig-25-,-77,13,2.8 ; contig-420+,-99,20,2.2
+contig-349 contig-681+,-99,11,3.0 ; contig-151-,-99,18,2.4
+contig-232 contig-316+,-99,16,2.5 ;
+contig-47 contig-362-,-92,19,2.3 ; contig-680-,-99,14,2.7
+contig-186 contig-833-,-99,19,2.3 ; contig-339+,-99,16,2.5
+contig-231 contig-419+,-99,11,3.0 ; contig-404+,-99,11,3.0
+contig-48 contig-438-,-90,13,2.8 ;
+contig-230 contig-32+,-99,15,2.6 ;
+contig-49 contig-764-,-99,14,2.7 ; contig-899+,-99,16,2.5
+contig-180 ; contig-779+,-99,20,2.2
+contig-237 ;
+contig-183 contig-493-,-99,19,2.3 ; contig-870-,-99,12,2.9
+contig-236 contig-504+,-99,18,2.4 ; contig-756-,-99,21,2.2
+contig-182 contig-828-,-99,15,2.6 ;
+contig-235 contig-872-,-99,24,2.0 ;
+contig-448 contig-389+,-99,12,2.9 ; contig-904-,-99,22,2.1
+contig-449 contig-333+,-99,38,1.6 contig-736-,62,14,2.7 contig-592+,4,15,2.6 contig-272+,-26,10,3.2 ; contig-210+,-99,31,1.8 contig-889-,-99,18,2.4 contig-76-,-30,10,3.2 contig-894+,-35,20,2.2
+contig-239 ; contig-811+,-99,22,2.1
+contig-444 contig-827-,-99,12,2.9 contig-767-,-99,15,2.6 ; contig-762+,-99,24,2.0
+contig-189 contig-427-,-99,10,3.2 ; contig-616+,-99,13,2.8
+contig-445 ; contig-395-,-99,17,2.4
+contig-188 contig-832+,-99,19,2.3 ; contig-475+,-99,14,2.7
+contig-446 contig-55+,-99,19,2.3 ;
+contig-440 ; contig-891-,-99,11,3.0
+contig-441 ; contig-177+,-99,22,2.1
+contig-442 contig-212-,-99,13,2.8 ;
+contig-443 contig-784-,-99,16,2.5 ; contig-850-,-92,17,2.4
+contig-646 contig-206+,-99,17,2.4 ; contig-124-,-99,22,2.1
+contig-647 contig-355-,-99,14,2.7 ; contig-390+,-99,10,3.2
+contig-644 ; contig-350-,-98,15,2.6
+contig-645 contig-797+,-99,16,2.5 ; contig-683+,-99,15,2.6
+contig-642 ; contig-810-,-94,15,2.6
+contig-643 contig-848-,-99,14,2.7 ; contig-583+,-99,12,2.9
+contig-640 contig-308-,-90,12,2.9 ;
+contig-641 contig-509-,-99,18,2.4 ; contig-717-,-99,15,2.6
+contig-516 contig-152+,-99,19,2.3 ;
+contig-517 contig-381-,-81,12,2.9 ;
+contig-514 ;
+contig-515 contig-850-,-99,11,3.0 ; contig-510+,-99,11,3.0
+contig-512 contig-757+,-99,23,2.1 ; contig-600+,-99,19,2.3
+contig-648 contig-690+,-99,15,2.6 ; contig-365-,-99,17,2.4
+contig-513 ; contig-677+,-89,14,2.7
+contig-649 contig-369-,-64,13,2.8 ;
+contig-510 contig-515+,-99,11,3.0 ; contig-253-,-99,14,2.7
+contig-905 contig-802-,-99,17,2.4 ;
+contig-511 contig-157+,-99,21,2.2 ; contig-317+,-99,12,2.9
+contig-904 contig-471-,-99,13,2.8 ; contig-448-,-99,22,2.1
+contig-907 contig-220-,-99,12,2.9 ; contig-358-,-99,18,2.4
+contig-906 contig-108-,-99,19,2.3 ; contig-747-,-99,17,2.4
+contig-900 contig-651-,-99,11,3.0 ;
+contig-475 contig-188+,-99,14,2.7 ; contig-568-,-99,10,3.2
+contig-474 contig-659-,-99,19,2.3 ; contig-892+,-99,16,2.5
+contig-902 contig-672-,-99,18,2.4 ; contig-578+,-99,16,2.5
+contig-518 ; contig-457-,-48,11,3.0
+contig-477 ; contig-556-,-99,21,2.2
+contig-519 ; contig-407-,-99,15,2.6
+contig-476 contig-410+,-98,11,3.0 ;
+contig-835 ;
+contig-471 contig-904-,-99,13,2.8 ; contig-789-,-92,13,2.8
+contig-834 ; contig-651-,-99,20,2.2
+contig-470 ; contig-597-,-99,15,2.6
+contig-837 contig-459+,-91,14,2.7 ;
+contig-473 contig-467-,-99,13,2.8 ; contig-19+,-99,14,2.7
+contig-909 ; contig-247+,-99,11,3.0
+contig-836 ;
+contig-831 contig-394-,-99,15,2.6 ;
+contig-79 contig-104+,-99,19,2.3 ; contig-587-,-99,13,2.8
+contig-318 contig-657-,-99,10,3.2 ; contig-469-,-86,17,2.4
+contig-830 ; contig-229+,-99,14,2.7
+contig-78 ; contig-486-,-99,15,2.6
+contig-319 ; contig-18-,-99,13,2.8
+contig-833 contig-186-,-99,19,2.3 ;
+contig-832 contig-750+,-99,25,2.0 ; contig-188+,-99,19,2.3
+contig-479 contig-731+,-82,15,2.6 ; contig-548+,-95,10,3.2
+contig-478 contig-74-,-99,17,2.4 ; contig-284+,-99,13,2.8
+contig-315 contig-798+,-99,12,2.9 ; contig-428-,-99,11,3.0
+contig-316 ; contig-232+,-99,16,2.5
+contig-317 contig-511+,-99,12,2.9 ; contig-150-,-99,19,2.3
+contig-71 contig-261-,-95,13,2.8 ;
+contig-310 ;
+contig-838 ; contig-587+,-99,10,3.2
+contig-70 contig-425-,-99,20,2.2 ; contig-135+,-95,11,3.0
+contig-311 contig-792-,-99,24,2.0 ;
+contig-73 contig-203-,-99,18,2.4 ; contig-394-,-98,19,2.3
+contig-158 contig-166-,-99,11,3.0 ;
+contig-312 contig-611+,-99,13,2.8 ;
+contig-72 contig-435-,-99,17,2.4 ; contig-437-,-99,15,2.6
+contig-159 contig-271-,-99,15,2.6 ;
+contig-313 contig-817-,-99,18,2.4 ; contig-797+,-72,14,2.7
+contig-156 contig-269+,-99,13,2.8 ; contig-523-,-99,15,2.6
+contig-74 contig-478-,-99,17,2.4 ; contig-421-,-99,17,2.4
+contig-157 contig-520-,-99,14,2.7 ; contig-511+,-99,21,2.2
+contig-77 contig-662+,-83,11,3.0 ;
+contig-154 contig-285+,-99,12,2.9 ; contig-266-,-96,14,2.7
+contig-76 contig-670-,-69,14,2.7 ; contig-449-,-30,10,3.2
+contig-155 contig-795-,-99,12,2.9 ; contig-173+,-99,10,3.2
+contig-152 ; contig-516+,-99,19,2.3
+contig-150 contig-870-,-99,16,2.5 ; contig-317-,-99,19,2.3
+contig-151 ; contig-349-,-99,18,2.4
+contig-400 contig-185-,-99,18,2.4 ;
+contig-401 contig-63+,-99,13,2.8 ; contig-346-,-93,14,2.7
+contig-402 ; contig-852+,-99,15,2.6
+contig-403 contig-575-,-99,16,2.5 ;
+contig-404 contig-231+,-99,11,3.0 ; contig-10-,-99,10,3.2
+contig-405 ;
+contig-406 contig-142-,-99,16,2.5 ; contig-170-,-99,10,3.2
+contig-639 ; contig-250-,-99,13,2.8
+contig-407 contig-772+,-99,13,2.8 ; contig-519-,-99,15,2.6
+contig-638 contig-585+,-99,17,2.4 ; contig-86-,-90,13,2.8
+contig-408 contig-458+,-99,12,2.9 ;
+contig-637 ;
+contig-409 ; contig-391+,-99,18,2.4
+contig-118 ;
+contig-635 contig-524+,-99,13,2.8 ;
+contig-119 contig-611-,-99,12,2.9 ; contig-554-,-99,14,2.7
+contig-634 ;
+contig-633 contig-193+,-91,18,2.4 ; contig-100+,-99,11,3.0
+contig-632 ; contig-117+,-99,19,2.3
+contig-22 contig-890+,-99,15,2.6 ; contig-62+,-99,12,2.9
+contig-631 ; contig-841+,-99,10,3.2
+contig-23 ;
+contig-630 contig-343-,-99,12,2.9 ; contig-497-,-99,11,3.0
+contig-20 contig-784+,-99,15,2.6 ;
+contig-568 contig-586+,-99,12,2.9 ; contig-475-,-99,10,3.2
+contig-113 contig-205+,-99,18,2.4 ;
+contig-21 contig-122+,-99,13,2.8 ; contig-829-,-99,14,2.7
+contig-567 contig-776-,-99,12,2.9 ;
+contig-110 contig-551-,-99,18,2.4 ;
+contig-26 contig-160-,-99,20,2.2 ; contig-39+,-99,19,2.3
+contig-566 contig-757-,-97,19,2.3 ; contig-465+,-63,17,2.4
+contig-111 contig-792+,-99,14,2.7 ; contig-285+,-98,15,2.6
+contig-27 contig-813-,-99,12,2.9 ; contig-503-,-99,11,3.0
+contig-565 contig-691-,-99,13,2.8 ;
+contig-116 contig-92+,-99,13,2.8 ;
+contig-24 contig-876-,-99,12,2.9 ; contig-279+,-42,14,2.7
+contig-564 contig-120+,-99,17,2.4 ; contig-307+,-91,17,2.4
+contig-117 contig-632+,-99,19,2.3 ; contig-468+,-98,13,2.8
+contig-25 contig-187-,-77,13,2.8 ; contig-916+,-99,15,2.6
+contig-563 contig-624-,-99,14,2.7 ;
+contig-114 ; contig-751+,-94,16,2.5
+contig-562 contig-262+,-99,14,2.7 ; contig-388-,-99,15,2.6
+contig-115 ;
+contig-561 contig-493+,-99,15,2.6 ; contig-87-,-99,13,2.8
+contig-28 contig-255+,-99,19,2.3 contig-868+,-99,26,2.0 ; contig-147-,-99,21,2.2 contig-868+,-99,43,1.5
+contig-560 ; contig-184+,-99,20,2.2
+contig-29 contig-34+,-99,15,2.6 ; contig-105+,-92,13,2.8
+contig-718 contig-785-,-99,13,2.8 ; contig-59-,-99,15,2.6
+contig-719 contig-45-,-99,15,2.6 ;
+contig-710 contig-374+,-27,10,3.2 ; contig-44-,-99,14,2.7
+contig-711 contig-558+,-87,15,2.6 ;
+contig-712 contig-680-,-99,15,2.6 ; contig-168+,-99,21,2.2
+contig-713 contig-627+,-56,14,2.7 ; contig-761-,-99,12,2.9
+contig-714 contig-384-,-99,16,2.5 ;
+contig-715 ;
+contig-350 contig-4-,-90,15,2.6 ; contig-644-,-98,15,2.6
+contig-716 contig-881+,-99,12,2.9 ;
+contig-717 ; contig-641-,-99,15,2.6
+contig-352 ; contig-504+,-99,20,2.2
+contig-353 ;
+contig-291 ;
+contig-354 contig-283-,-99,18,2.4 ; contig-439+,-99,13,2.8
+contig-290 contig-43-,-99,15,2.6 ;
+contig-355 contig-647-,-99,14,2.7 ;
+contig-293 contig-199+,-97,16,2.5 ;
+contig-356 ; contig-97-,-99,15,2.6
+contig-357 contig-423-,-99,12,2.9 ; contig-726+,-88,14,2.7
+contig-192 contig-554-,-99,12,2.9 ;
+contig-295 contig-372-,-99,17,2.4 ; contig-505-,-99,16,2.5
+contig-358 contig-863-,-99,10,3.2 ; contig-907-,-99,18,2.4
+contig-193 contig-211+,-97,10,3.2 ; contig-633+,-91,18,2.4
+contig-294 contig-579+,-99,12,2.9 ; contig-910+,-99,15,2.6
+contig-359 ;
+contig-190 ; contig-328+,-99,18,2.4
+contig-297 ;
+contig-191 contig-382-,-99,16,2.5 ;
+contig-296 contig-780-,-99,19,2.3 ;
+contig-439 contig-354+,-99,13,2.8 ; contig-134-,-99,17,2.4
+contig-196 contig-881-,-99,36,1.7 ; contig-472+,-1,10,3.2 contig-899+,-85,12,2.9
+contig-299 contig-699+,-99,15,2.6 ; contig-794-,-99,23,2.1
+contig-438 contig-48-,-90,13,2.8 ;
+contig-197 contig-555-,55,11,3.0 ; contig-453+,-3,18,2.4
+contig-298 contig-686-,-52,15,2.6 ; contig-327-,-96,19,2.3
+contig-194 contig-453+,-99,17,2.4 contig-899+,-99,14,2.7 ; contig-499+,-99,21,2.2
+contig-195 contig-558-,-99,18,2.4 ; contig-429+,-99,15,2.6
+contig-879 contig-90+,-99,22,2.1 ; contig-622-,-83,18,2.4
+contig-878 contig-420+,-99,12,2.9 ;
+contig-198 contig-44-,-99,17,2.4 ; contig-67+,-29,12,2.9
+contig-754 contig-68-,-97,17,2.4 ; contig-654+,-99,16,2.5
+contig-199 contig-225-,-99,12,2.9 ; contig-293+,-97,16,2.5
+contig-431 ; contig-392+,-99,19,2.3
+contig-755 contig-276+,-99,12,2.9 ; contig-121-,-99,15,2.6
+contig-756 contig-99+,-99,16,2.5 ; contig-236-,-99,21,2.2
+contig-433 ;
+contig-757 contig-566-,-97,19,2.3 ; contig-512+,-99,23,2.1
+contig-432 ; contig-252+,-99,18,2.4
+contig-750 contig-581-,-99,18,2.4 ; contig-832+,-99,25,2.0
+contig-871 contig-571+,-99,14,2.7 ; contig-7-,-99,15,2.6
+contig-435 contig-72-,-99,17,2.4 ; contig-893-,-99,16,2.5
+contig-751 contig-114+,-94,16,2.5 ; contig-108-,-87,18,2.4
+contig-783 ; contig-366-,-99,13,2.8
+contig-870 contig-150-,-99,16,2.5 ; contig-183-,-99,12,2.9
+contig-434 ;
+contig-752 ; contig-466-,-99,10,3.2
+contig-782 ; contig-590-,-99,24,2.0
+contig-873 ;
+contig-437 contig-468+,-99,15,2.6 ; contig-72-,-99,15,2.6
+contig-753 contig-524-,-99,14,2.7 ;
+contig-781 contig-107+,-97,16,2.5 ; contig-46+,-99,19,2.3
+contig-872 contig-235-,-99,24,2.0 ;
+contig-436 ; contig-362-,-99,14,2.7
+contig-780 contig-296-,-99,19,2.3 ; contig-303+,-99,21,2.2
+contig-875 contig-415+,-89,19,2.3 ; contig-843+,-99,14,2.7
+contig-787 contig-682+,-99,19,2.3 ; contig-167+,-99,23,2.1
+contig-874 ;
+contig-786 contig-228-,-99,19,2.3 ; contig-64-,-99,11,3.0
+contig-877 ; contig-532+,-99,19,2.3
+contig-785 contig-718-,-99,13,2.8 ;
+contig-876 contig-24-,-99,12,2.9 ; contig-376-,-99,14,2.7
+contig-758 contig-702+,-98,12,2.9 ; contig-801+,-99,15,2.6
+contig-784 contig-443-,-99,16,2.5 ; contig-20+,-99,15,2.6
+contig-759 contig-895-,-99,16,2.5 ; contig-6-,-99,14,2.7
+contig-673 ; contig-669+,-99,18,2.4
+contig-789 ; contig-471-,-92,13,2.8
+contig-672 contig-902-,-99,18,2.4 ;
+contig-788 contig-255-,-99,12,2.9 ; contig-816-,-99,11,3.0
+contig-671 contig-660-,-99,18,2.4 ; contig-845-,-99,13,2.8
+contig-670 contig-76-,-69,14,2.7 ; contig-881-,-99,14,2.7
+contig-677 contig-513+,-89,14,2.7 ;
+contig-675 contig-813+,-99,20,2.2 ; contig-170+,-99,24,2.0
+contig-674 contig-661+,-99,17,2.4 ;
+contig-523 contig-284+,-99,19,2.3 ; contig-156-,-99,15,2.6
+contig-679 contig-419-,-99,19,2.3 ; contig-15+,-99,19,2.3
+contig-522 contig-802+,-89,11,3.0 ;
+contig-678 contig-335-,-99,16,2.5 ;
+contig-521 ;
+contig-520 contig-157-,-99,14,2.7 ;
+contig-527 contig-744-,-99,20,2.2 ; contig-498-,-99,16,2.5
+contig-526 contig-770-,-99,15,2.6 ; contig-219-,-99,22,2.1
+contig-525 ; contig-689+,-99,14,2.7
+contig-912 contig-806-,-99,11,3.0 ; contig-135-,-86,15,2.6
+contig-524 contig-753-,-99,14,2.7 ; contig-635+,-99,13,2.8
+contig-913 ;
+contig-910 contig-294+,-99,15,2.6 ; contig-597+,-99,11,3.0
+contig-529 contig-43+,-99,16,2.5 ;
+contig-916 contig-25+,-99,15,2.6 ;
+contig-528 contig-246-,-90,18,2.4 ; contig-168-,-99,11,3.0
+contig-914 contig-301-,-96,19,2.3 ; contig-656+,-99,18,2.4
+contig-915 contig-249+,-99,14,2.7 ; contig-577-,-99,15,2.6
+contig-97 ; contig-356-,-99,15,2.6
+contig-822 contig-867-,-90,15,2.6 ;
+contig-96 ; contig-503+,-99,20,2.2
+contig-823 contig-282+,-91,15,2.6 ; contig-543+,-99,18,2.4
+contig-95 contig-133-,-99,15,2.6 ;
+contig-820 contig-143-,-99,19,2.3 ; contig-276+,-99,16,2.5
+contig-94 contig-416+,-99,21,2.2 ;
+contig-821 ; contig-455-,-99,17,2.4
+contig-268 contig-10-,-99,11,3.0 ;
+contig-93 contig-134-,-99,13,2.8 ; contig-217-,-5,11,3.0
+contig-826 contig-429+,-99,17,2.4 ; contig-36-,-99,16,2.5
+contig-269 ; contig-156+,-99,13,2.8
+contig-92 contig-770+,-99,14,2.7 ; contig-116+,-99,13,2.8
+contig-66 contig-65-,-99,24,2.0 ; contig-241+,-99,15,2.6
+contig-827 contig-444-,-99,12,2.9 ; contig-590+,-99,13,2.8
+contig-91 ; contig-791+,-99,16,2.5
+contig-67 contig-198+,-29,12,2.9 ;
+contig-824 contig-540-,-99,22,2.1 ; contig-698+,-99,21,2.2
+contig-90 contig-486-,-97,20,2.2 ; contig-879+,-99,22,2.1
+contig-64 contig-492-,-99,16,2.5 ; contig-786-,-99,11,3.0
+contig-264 ; contig-103-,-99,12,2.9
+contig-65 contig-66-,-99,24,2.0 ; contig-694+,-99,18,2.4
+contig-62 contig-22+,-99,12,2.9 ;
+contig-266 ; contig-154-,-96,14,2.7
+contig-63 ; contig-401+,-99,13,2.8
+contig-828 contig-182-,-99,15,2.6 ; contig-584-,-99,10,3.2
+contig-267 contig-856-,-99,14,2.7 ;
+contig-829 ; contig-21-,-99,14,2.7
+contig-61 ;
+contig-261 contig-71-,-95,13,2.8 ;
+contig-262 contig-54-,-99,22,2.1 ; contig-562+,-99,14,2.7
+contig-99 contig-56+,-99,12,2.9 ; contig-756+,-99,16,2.5
+contig-263 contig-859+,-99,21,2.2 ;
+contig-98 ; contig-709+,-76,16,2.5
+contig-68 contig-754-,-97,17,2.4 ; contig-107+,-99,16,2.5
+contig-69 contig-595+,-98,11,3.0 ;
+contig-769 contig-614-,-99,14,2.7 ; contig-286-,-99,14,2.7
+contig-768 contig-883-,-99,21,2.2 ; contig-101-,-99,18,2.4
+contig-765 contig-125+,-99,14,2.7 ;
+contig-764 contig-49-,-99,14,2.7 ; contig-739-,-92,21,2.2
+contig-767 contig-444-,-99,15,2.6 ;
+contig-766 ; contig-705-,-89,13,2.8
+contig-761 ; contig-713-,-99,12,2.9
+contig-760 contig-656+,-99,18,2.4 ; contig-142-,-99,14,2.7
+contig-699 contig-37+,-99,16,2.5 ; contig-299+,-99,15,2.6
+contig-325 ; contig-545+,-99,16,2.5
+contig-763 contig-46+,-99,15,2.6 ; contig-256-,-99,14,2.7
+contig-698 contig-824+,-99,21,2.2 ; contig-303-,-99,11,3.0
+contig-324 contig-32-,-86,11,3.0 ; contig-306-,-96,11,3.0
+contig-762 contig-444+,-99,24,2.0 ; contig-553+,-99,12,2.9
+contig-327 contig-655+,-99,13,2.8 ; contig-298-,-96,19,2.3
+contig-326 contig-777+,-86,13,2.8 ; contig-740+,-80,14,2.7
+contig-695 contig-52-,-99,14,2.7 ; contig-281-,-95,13,2.8
+contig-694 contig-65+,-99,18,2.4 ; contig-615+,-99,16,2.5
+contig-320 ; contig-572+,-99,18,2.4
+contig-697 ;
+contig-629 contig-427+,-99,11,3.0 ;
+contig-323 contig-426-,-87,22,2.1 ; contig-222-,-99,21,2.2
+contig-696 contig-724+,-99,17,2.4 ; contig-178+,-99,10,3.2
+contig-322 ;
+contig-691 contig-565-,-99,13,2.8 ; contig-124+,-81,10,3.2
+contig-127 contig-858+,-91,16,2.5 ;
+contig-690 contig-130+,-94,18,2.4 ; contig-648+,-99,15,2.6
+contig-624 contig-563-,-99,14,2.7 ; contig-342-,-99,13,2.8
+contig-126 contig-808-,-95,18,2.4 ;
+contig-255 contig-788-,-99,12,2.9 ; contig-28+,-99,19,2.3
+contig-693 contig-38-,-99,19,2.3 ; contig-307-,-96,13,2.8
+contig-625 contig-574+,-86,14,2.7 ; contig-84+,-99,16,2.5
+contig-125 contig-856+,-99,17,2.4 ; contig-765+,-99,14,2.7
+contig-254 ;
+contig-692 contig-687-,-92,14,2.7 ; contig-603+,-99,13,2.8
+contig-626 contig-245-,-99,15,2.6 ;
+contig-124 contig-691+,-81,10,3.2 ; contig-646-,-99,22,2.1
+contig-627 ; contig-713+,-56,14,2.7
+contig-123 contig-85-,-99,10,3.2 ;
+contig-329 contig-897+,-99,15,2.6 ; contig-141+,-99,18,2.4
+contig-256 contig-652-,-99,16,2.5 ; contig-763-,-99,14,2.7
+contig-620 contig-742+,-99,11,3.0 ;
+contig-122 contig-375-,-99,12,2.9 ; contig-21+,-99,13,2.8
+contig-328 contig-190+,-99,18,2.4 ; contig-708-,-99,12,2.9
+contig-251 ; contig-883-,-99,16,2.5
+contig-121 ; contig-755-,-99,15,2.6
+contig-250 ; contig-639-,-99,13,2.8
+contig-622 contig-149+,8,12,2.9 ; contig-879-,-83,18,2.4
+contig-120 contig-888+,-99,19,2.3 ; contig-564+,-99,17,2.4
+contig-253 contig-274+,-99,15,2.6 ; contig-510-,-99,14,2.7
+contig-623 ;
+contig-252 contig-432+,-99,18,2.4 ;
+contig-259 ;
+contig-129 contig-179-,-99,20,2.2 ; contig-584+,-99,14,2.7
+contig-258 contig-85+,-99,10,3.2 ; contig-654-,-99,19,2.3
+contig-19 contig-473+,-99,14,2.7 ; contig-501-,-99,19,2.3
+contig-18 ; contig-319-,-99,13,2.8
+contig-16 contig-540+,-99,16,2.5 ; contig-480+,-97,18,2.4
+contig-15 contig-679+,-99,19,2.3 ; contig-730-,-99,15,2.6
+contig-14 ;
+contig-12 ; contig-881+,-99,28,1.9
+contig-10 contig-268-,-99,11,3.0 ; contig-404-,-99,10,3.2
+contig-220 contig-907-,-99,12,2.9 ; contig-40-,-99,17,2.4
+contig-221 ;
+contig-222 contig-794-,-99,19,2.3 ; contig-323-,-99,21,2.2
+contig-223 ;
+contig-224 ; contig-742+,-99,19,2.3
+contig-225 contig-199-,-99,12,2.9 ;
+contig-226 contig-557-,-97,15,2.6 ; contig-347+,-99,10,3.2
+contig-227 ; contig-501+,-99,13,2.8
+contig-228 contig-786-,-99,19,2.3 ;
+contig-229 contig-830+,-99,14,2.7 ;
+contig-897 ; contig-329+,-99,15,2.6
+contig-896 contig-309-,-99,14,2.7 ;
+contig-426 contig-323-,-87,22,2.1 ; contig-346+,-99,13,2.8
+contig-895 contig-759-,-99,16,2.5 ; contig-381-,-99,10,3.2
+contig-427 contig-189-,-99,10,3.2 ; contig-629+,-99,11,3.0
+contig-894 contig-449+,-35,20,2.2 ;
+contig-424 contig-178+,-99,17,2.4 ;
+contig-893 ; contig-435-,-99,16,2.5
+contig-425 contig-70-,-99,20,2.2 ;
+contig-892 contig-474+,-99,16,2.5 ; contig-543-,-93,14,2.7
+contig-866 ; contig-165+,-99,17,2.4
+contig-422 contig-809-,-99,14,2.7 ; contig-483-,-35,11,3.0
+contig-891 contig-701+,-99,13,2.8 ; contig-440-,-99,11,3.0
+contig-867 contig-822-,-90,15,2.6 ;
+contig-423 contig-357-,-99,12,2.9 ; contig-304-,-99,18,2.4
+contig-890 contig-243+,-99,16,2.5 ; contig-22+,-99,15,2.6
+contig-864 ; contig-491-,-89,20,2.2
+contig-420 contig-187+,-99,20,2.2 ; contig-878+,-99,12,2.9
+contig-865 contig-283+,-99,25,2.0 ; contig-739+,-99,11,3.0
+contig-421 contig-810-,-99,15,2.6 ; contig-74-,-99,17,2.4
+contig-721 ; contig-5-,-99,19,2.3
+contig-862 ;
+contig-720 contig-571-,-99,21,2.2 ;
+contig-863 contig-358-,-99,10,3.2 ; contig-45-,-98,23,2.1
+contig-723 ; contig-143-,-99,14,2.7
+contig-4 contig-350-,-90,15,2.6 ; contig-498+,-99,19,2.3
+contig-860 ;
+contig-5 contig-131+,-58,12,2.9 ; contig-721-,-99,19,2.3
+contig-861 ;
+contig-725 contig-559-,-96,13,2.8 ; contig-87+,-99,10,3.2
+contig-6 contig-39+,-99,17,2.4 ; contig-759-,-99,14,2.7
+contig-724 contig-840-,-99,10,3.2 ; contig-696+,-99,17,2.4
+contig-790 contig-379-,-99,19,2.3 ;
+contig-7 ; contig-871-,-99,15,2.6
+contig-899 contig-49+,-99,16,2.5 contig-196+,-85,12,2.9 ; contig-194+,-99,14,2.7
+contig-727 contig-544-,-99,13,2.8 ; contig-729+,-99,14,2.7
+contig-791 contig-91+,-99,16,2.5 ; contig-102-,-99,16,2.5
+contig-0 contig-88-,-99,15,2.6 ;
+contig-428 ; contig-315-,-99,11,3.0
+contig-726 contig-357+,-88,14,2.7 ;
+contig-792 contig-311-,-99,24,2.0 ; contig-111+,-99,14,2.7
+contig-288 contig-881+,-99,17,2.4 ; contig-889+,-44,12,2.9
+contig-1 ; contig-147+,-99,17,2.4
+contig-429 contig-195+,-99,15,2.6 ; contig-826+,-99,17,2.4
+contig-729 contig-727+,-99,14,2.7 ; contig-331+,-99,17,2.4
+contig-793 contig-851-,-99,13,2.8 ;
+contig-289 contig-368+,-98,15,2.6 ;
+contig-2 contig-385+,-99,10,3.2 ;
+contig-794 contig-222-,-99,19,2.3 ; contig-299-,-99,23,2.1
+contig-286 ; contig-769-,-99,14,2.7
+contig-3 ; contig-497+,-99,16,2.5
+contig-795 contig-155-,-99,12,2.9 ;
+contig-287 ; contig-685+,-99,14,2.7
+contig-868 contig-28+,-99,43,1.5 ; contig-28+,-99,26,2.0
+contig-796 ; contig-304+,-26,11,3.0
+contig-284 contig-478+,-99,13,2.8 ; contig-523+,-99,19,2.3
+contig-869 ; contig-531+,-99,15,2.6
+contig-797 contig-313+,-72,14,2.7 ; contig-645+,-99,16,2.5
+contig-285 contig-111+,-98,15,2.6 ; contig-154+,-99,12,2.9
+contig-798 contig-218+,-99,11,3.0 ; contig-315+,-99,12,2.9
+contig-282 ; contig-823+,-91,15,2.6
+contig-799 ;
+contig-660 contig-671-,-99,18,2.4 ;
+contig-283 contig-354-,-99,18,2.4 ; contig-865+,-99,25,2.0
+contig-8 contig-177+,-99,17,2.4 ; contig-481+,-86,11,3.0
+contig-661 ; contig-674+,-99,17,2.4
+contig-280 contig-701-,-99,16,2.5 ; contig-580-,-99,14,2.7
+contig-9 ; contig-606-,-83,10,3.2
+contig-662 contig-136+,-99,20,2.2 ; contig-77+,-83,11,3.0
+contig-281 contig-775+,-99,14,2.7 ; contig-695-,-95,13,2.8
+contig-663 contig-333-,33,15,2.6 ; contig-700+,-99,15,2.6
+contig-581 contig-750-,-99,18,2.4 ; contig-542-,-99,11,3.0
+contig-664 ; contig-744-,-99,22,2.1
+contig-580 ; contig-280-,-99,14,2.7
+contig-665 ;
+contig-583 contig-643+,-99,12,2.9 ;
+contig-666 ;
+contig-582 ;
+contig-667 contig-454-,-99,14,2.7 ; contig-858+,-99,12,2.9
+contig-585 contig-618-,-99,12,2.9 ; contig-638+,-99,17,2.4
+contig-668 ; contig-738-,-99,23,2.1
+contig-584 contig-129+,-99,14,2.7 ; contig-828-,-99,10,3.2
+contig-669 contig-673+,-99,18,2.4 ;
+contig-587 contig-838+,-99,10,3.2 ; contig-79-,-99,13,2.8
+contig-586 ; contig-568+,-99,12,2.9
+contig-463 contig-453-,66,12,2.9 ;
+contig-589 ;
+contig-460 contig-82-,-97,11,3.0 ; contig-655+,-99,13,2.8
+contig-588 ;
+contig-461 ;
+contig-466 ; contig-752-,-99,10,3.2
+contig-369 contig-649-,-64,13,2.8 ;
+contig-467 contig-473-,-99,13,2.8 ;
+contig-368 ; contig-289+,-98,15,2.6
+contig-464 ;
+contig-465 contig-566+,-63,17,2.4 ; contig-746-,-99,17,2.4
