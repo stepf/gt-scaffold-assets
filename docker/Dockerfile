@@ -7,6 +7,7 @@ ENV bamtools_version v2.3.0
 ENV bwa_version 0.7.8
 ENV abyss_version 1.5.2
 ENV samtools_version 1.1
+ENV genometools_version v1.5.4
 
 # Install dependencies
 RUN sudo apt-get update &&\
@@ -66,6 +67,15 @@ RUN wget -qO- \
     | tar -xj
 WORKDIR ./samtools-$samtools_version
 RUN make && make install
+WORKDIR ..
+
+# Build genometools
+RUN git clone -b $genometools_version https://github.com/genometools/genometools.git
+WORKDIR ./genometools
+RUN make 64bit=yes cairo=no install
+ENV GTDIR ./genometools
+ENV GT_ENV_OPTIONS -spacepeak -showtime
+ENV GT_MEM_BOOKKEEPING on
 WORKDIR ..
 
 # Set entrypoint
