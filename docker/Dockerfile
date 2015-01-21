@@ -25,6 +25,7 @@ RUN sudo apt-get update &&\
       python-dev \
       python-pip \
       sparsehash \
+      time \
       wget \
       zlib1g-dev
 # install sga-astat.py dependecy
@@ -73,9 +74,15 @@ WORKDIR ..
 RUN git clone -b $genometools_version https://github.com/genometools/genometools.git
 WORKDIR ./genometools
 RUN make 64bit=yes cairo=no install
-ENV GTDIR ./genometools
+ENV GTDIR /genometools
 ENV GT_ENV_OPTIONS -spacepeak -showtime
 ENV GT_MEM_BOOKKEEPING on
+WORKDIR ..
+
+# Build gt-scaffold
+WORKDIR ./gt-scaffold
+RUN git clone https://github.com/dorleosterode/gt-scaffold
+RUN make && cp ./src/test.x /usr/local/bin/gt-scaffold
 WORKDIR ..
 
 # Set entrypoint
