@@ -1,9 +1,6 @@
 FROM ubuntu:14.04
 MAINTAINER Stefan Dang <stefan.dang@studium.uni-hamburg.de>
 
-# To trigger new autobuild
-ENV last_update 220115
-
 # Versions
 ENV bamtools_version v2.3.0
 #ENV sga_version v0.10.13
@@ -85,7 +82,7 @@ WORKDIR ..
 # Build gt-scaffold
 WORKDIR ./gt-scaffold
 RUN git clone https://github.com/dorleosterode/gt-scaffold
-RUN make && cp ./src/test.x /usr/local/bin/gt-scaffold
+RUN cd src && make && cp test.x /usr/local/bin/gt-scaffold
 WORKDIR ..
 
 # Set entrypoint
