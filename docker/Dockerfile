@@ -22,6 +22,7 @@ RUN sudo apt-get update &&\
       libncurses5-dev \
       libncursesw5-dev \
       libtool \
+      lua5.2 \
       python-dev \
       python-pip \
       sparsehash \
@@ -80,8 +81,8 @@ ENV GT_MEM_BOOKKEEPING on
 WORKDIR ..
 
 # Build gt-scaffold
-WORKDIR ./gt-scaffold
 RUN git clone https://github.com/dorleosterode/gt-scaffold
+WORKDIR ./gt-scaffold
 RUN cd src && make && cp test.x /usr/local/bin/gt-scaffold
 WORKDIR ..
 
